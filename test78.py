@@ -39,6 +39,12 @@ except KeyError:
     print("Can't find any song,check your network or try a new word")
 
 
+#########
+'''
+:python$ ./test78.py 
+Enter the song to be played:'hele dil'
+it will open youtube and play the songs acc to serach
+'''
 
 
 
