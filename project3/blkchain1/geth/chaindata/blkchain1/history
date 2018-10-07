@@ -1,0 +1,18 @@
+admin.nodeInfo
+admin eth
+admin require
+personal.listAccounts
+admin.peers
+admin.nodeInfo
+admin.peers
+admin.addPeer("enode://b705d7134a37fba20f7731d6f88188bb51f886219991f5b803bf449dd0f759a8892e045a0f59823d620345fa453659d1b0b0639f25cb54a1b0a43b7873c20f2e@[::]:30304?discport=0")
+admin.peers
+admin.peer()
+admin.peer
+admin.peers
+miner.start(1)
+eth.blockNumber
+admin.peers
+eth.blockNumber
+eth.getBlock(3)
+eth.getBlock(0)

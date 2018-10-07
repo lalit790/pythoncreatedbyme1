@@ -1,0 +1,9 @@
+=============== Sep 27, 2018 (IST) ===============
+09:00:58.288436 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:00:58.289146 db@open opening
+09:00:58.292958 version@stat F·[] S·0B[] Sc·[]
+09:00:58.294267 db@janitor F·2 G·0
+09:00:58.294321 db@open done T·5.150709ms
+=============== Sep 28, 2018 (IST) ===============
+08:18:51.893531 db@close closing
+08:18:51.894280 db@close done T·745.93µs

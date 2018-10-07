@@ -1,0 +1,8 @@
+admin.nodeInfo
+admin.peers
+admin.addPeer("enode://93504d43e5513573651f2419525eb0b5c1b9f97511205e2ed1dc5dcb2a6633a500221aa555bd36da901013bd9577b8f3d88b339189a3cc787944b856db8f32df@[::]:30303?discport=0")
+admin.peers
+admin.addPeer()
+admin.peers
+eth.blockNumber
+eth.getBlock(0)
